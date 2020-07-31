@@ -1,0 +1,12 @@
+Time taken by bubble_sort to sort array of 10000 items is 650.270669221878s. 
+Time taken by merge_sort to sort array of 10000 items is 0.4289088249206543s.
+Time taken by quick_sort to sort array of 10000 items is 0.06901073455810547
+
+
+Binary Search:
+Time taken by binary_search to search 2341(is_in: True) in array of 10000 items is 0.0s.
+Time taken by binary_search to search 27741(is_in: False) in array of 10000 items is 0.0s.
+Time taken by binary_search to search 27741(is_in: False) in array of 100000 items is 0.03128409385681152s.
+Time taken by binary_search to search 27741(is_in: False) in array of 100 items is 0.0s.
+Time taken by binary_search to search 27741(is_in: False) in array of 1000000 items is 0.35427331924438477s.
+Time taken by binary_search to search 27741(is_in: False) in array of 10000000 items is 3.93304443359375s.
